@@ -1,0 +1,10 @@
+/* File: font.css */
+@font-face {
+    font-family: "Anurati-Regular";
+    src: url("https://db.onlinewebfonts.com/t/a21764905c623777a48ec557b4229c22.eot");
+    src: url("https://db.onlinewebfonts.com/t/a21764905c623777a48ec557b4229c22.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/a21764905c623777a48ec557b4229c22.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/a21764905c623777a48ec557b4229c22.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/a21764905c623777a48ec557b4229c22.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/a21764905c623777a48ec557b4229c22.svg#Anurati-Regular")format("svg");
+}

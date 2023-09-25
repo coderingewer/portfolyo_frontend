@@ -1,0 +1,29 @@
+.hipage{
+    display: flex;
+    width: 60%;
+    align-items: center;
+}
+.hellocontent{
+    text-align: center;
+    height: 100%;
+    color: aliceblue;
+    display: flex;
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-image: linear-gradient(to right, black  , rgba(0, 0, 0, 0));
+}
+
+.hellocontent h1{
+    position: relative;
+    top: 50px;
+    max-height: 800px;
+    width: auto;
+    display: table-caption;
+    font-size: 42px;
+    text-align: left;
+    line-height: 90px;
+    letter-spacing: 10px;
+    word-spacing: 100vw;
+    font-family: "Anurati-Regular";
+}
